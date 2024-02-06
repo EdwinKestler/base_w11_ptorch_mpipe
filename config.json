@@ -1,0 +1,5 @@
+{
+    "image_path": "./test2.jpg",
+    "score_threshold": 0.75,
+    "device": "auto"
+}
