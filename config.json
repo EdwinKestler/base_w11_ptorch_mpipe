@@ -1,5 +1,6 @@
 {
     "image_path": "./test2.jpg",
+    "video_path": "./video_test_2.mp4",
     "score_threshold": 0.75,
     "device": "auto"
 }
